@@ -15,7 +15,7 @@ Part of this project was inspired by a [Medium article](https://medium.com/stanf
 
 ### Overview and Challenges
 
-For a more detailed overview of the project and some of the challenges faced, please view the following video: [Overview and Challenges](https://www.youtube.com/watch?v=qPU6xWx640Q)
+For a more detailed overview of the project and some of the challenges faced, please view the following video: [Overview and Challenges Video](https://www.youtube.com/watch?v=qPU6xWx640Q)
 
 ## Installation and How to Use
 
