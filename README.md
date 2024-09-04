@@ -19,6 +19,6 @@ For a more detailed overview of the project and some of the challenges faced, pl
 
 ## Installation and How to Use
 
-To get the notebook files, simply download them from the repo or clone the reop to your computer. To run the notebooks, you can use Google Colaboratory or another Jupyter Notebook service. If the code in the notebooks isn't working, be sure that you have run the `pip install` and library import code blocks.
+To get the notebook files, simply download them from the repo or clone the repo to your computer. To run the notebooks, you can use Google Colaboratory or another Jupyter Notebook service. If the code in the notebooks isn't working, be sure that you have run the `pip install` and library import code blocks. Once those import statements are run, each section of the project (i.e. the different datasets) can be run independently.
 
 To get the most out of this project, it is recommended to have some basic understanding of neural networks in general and PyTorch.
